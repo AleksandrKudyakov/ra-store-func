@@ -67,3 +67,4 @@ return (
 
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/l2vtw4ixmuesseyg/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-store-func/branch/main)
